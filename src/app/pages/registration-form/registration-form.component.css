@@ -1,0 +1,15 @@
+.example-form{
+    border-width: 20px;
+    /* background-size: contain; */
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+    color:palevioletred;
+   
+}
+.boarder{
+    border-radius: 10px;
+    background-color:lavender;
+    width: 600px;
+    margin-left:300px;
+}

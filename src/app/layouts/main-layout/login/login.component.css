@@ -1,0 +1,26 @@
+.example-form{
+    
+    text-align: center;
+    background-color:lightseagreen;
+    /* display:inline-table; */
+    padding: 80px;
+    /* padding-left: 100px; */
+    border-radius: 100px;
+    width: 200px;
+    margin-left: 400px;
+
+}
+.co{
+    background:violet;
+    text-align: center;
+
+}
+#footer{
+    text-align: center;
+    padding: 70px;
+   color: brown;
+  
+ 
+}
+
+

@@ -1,0 +1,8 @@
+div{
+    /* background-image: url(./assets/hello.jpg); */
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    
+}
